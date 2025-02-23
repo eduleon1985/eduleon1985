@@ -1,80 +1,84 @@
-# Hello, I'm Eduardo Leon! 👋
+# **Eduardo Leon – Cloud Security & DevSecOps Journey 🚀**  
 
-I am a **Cybersecurity & Cloud Computing** Enthusiast, focused on building a solid portfolio in Threat Intelligence, OSINT, Counterintelligence, Incident Response, and Cloud Security Engineering.
+### **🌍 Building a Strong Portfolio in Cloud Security & DevSecOps**  
 
-With a background in IT Operations and Software Engineering, I am transitioning into Cybersecurity and Cloud Security, leveraging my experience to solve complex security challenges, detect and mitigate threats, and ensure robust cloud infrastructures.
+I am a **Cloud Security and DevSecOps professional in transition**, focusing on **cyber threats, security automation, and secure cloud architecture**.
+My goal is to build a strong technical portfolio and contribute to **open-source projects and research**, gaining hands-on experience and increasing my visibility in the international job market.  
 
----
-
-## About Me
-
-📌 Key Interests & Areas of Study:
-
-- **Offensive Security**: OSINT, Threat Intelligence, Red Team tactics
-- **Defensive Security**: Incident Response, Digital Forensics, SIEM, Blue Team strategies
-- **Cloud Security**: Identity & Access Management (IAM), Security Posture Management, Zero Trust Architecture
-- **Automation & Scripting**: Python, PowerShell, Bash for security automation
-- **Cyber Threat Hunting**: Malware analysis, log analysis, anomaly detection
-- **Risk & Compliance**: Governance, Security Frameworks, Regulatory Compliance
-
-💡 **Current Goal**: Expanding my Cybersecurity and Cloud Security portfolio through hands-on projects and research, aiming to secure a role in the field.
-
-📂 **GitHub Focus**: I use this space to showcase projects, research, and security tools that contribute to the cybersecurity community.
-
-🚀 **Let’s connect!** Always open to discussions, collaborations, and knowledge exchange in cybersecurity.
+💡 **Currently working on:** **Cloud Security Mastery: From Zero to Expert**  
+📍 **Focus:** Hands-on experience in **Cloud Security Engineering, DevSecOps, and Security Automation**  
+🎯 **Goal:** Become a recognized expert in the field and secure a strategic role in Cloud Security  
 
 ---
 
-## 🛠️ Projects  
+## **📌 Key Focus Areas**  
 
-Here are some projects I'm working on:
-
-### 🔹 Cloud Security  
-- [**Cloud Security Monitoring Implementation**](URL) – Design and deploy a cloud-native security monitoring system to detect and mitigate threats in real time.  
-- [**Cloud Server Hardening**](URL) – Apply security best practices to protect cloud-based servers from vulnerabilities and unauthorized access.  
-- [**Cloud Network & Firewall Security**](URL) – Configure network security controls, firewalls, and segmentation strategies to enhance cloud security.  
-- [**Zero Trust Configuration in the Cloud**](URL) – Implement a Zero Trust architecture to enhance identity-based security and minimize attack surfaces.  
-- [**Cloud API Security Implementation**](URL) – Secure cloud-based APIs against unauthorized access, injections, and other cyber threats.  
-- [**Cloud Storage Security**](URL) – Apply encryption, access control, and monitoring to secure data stored in the cloud.  
-- [**Multi-Cloud Workload Security**](URL) – Implement security best practices for workloads running across multiple cloud providers.  
-
-### 🔹 Incident Response & Monitoring  
-- [**SIEM Implementation in the Cloud**](URL) – Deploy a Security Information and Event Management (SIEM) solution to centralize security logs and improve threat detection.  
-- [**Incident Monitoring & Response**](URL) – Develop an incident response framework with real-time monitoring and security alerts.  
-- [**Ransomware Protection Strategy**](URL) – Design and deploy anti-ransomware mechanisms to safeguard cloud assets and mitigate attacks.  
-- [**Honeypot Deployment for Threat Detection**](URL) – Deploy honeypots to attract and analyze malicious activities, enhancing threat intelligence.  
-
-### 🔹 Threat Intelligence & OSINT  
-- [**Cloud Data Loss Prevention (DLP) Implementation**](URL) – Set up DLP mechanisms to prevent sensitive data leaks in cloud environments.  
-- [**Cloud Secrets Management**](URL) – Implement secure storage and access management for API keys, credentials, and sensitive data.  
-
-### 🔹 Automation & DevSecOps  
-- [**Security Automation with Terraform & Ansible**](URL) – Automate security configurations using Infrastructure as Code (IaC) for consistency and compliance.  
-- [**Secure Infrastructure as Code (IaC)**](URL) – Implement security-focused Infrastructure as Code to ensure safe and compliant cloud deployments.  
-- [**Container & Kubernetes Security**](URL) – Implement security measures for containerized applications and Kubernetes environments to prevent breaches.  
-
-### 🔹 Risk & Compliance  
-- [**Cloud Compliance & Security Auditing**](URL) – Establish governance frameworks and auditing mechanisms to ensure regulatory compliance.  
-- [**Identity & Access Management (IAM) Governance**](URL) – Configure IAM policies and role-based access controls (RBAC) to secure cloud identities.  
-- [**Backup & Disaster Recovery Implementation**](URL) – Develop a resilient cloud backup and disaster recovery strategy to ensure business continuity.  
+🔹 **Cloud Security & Compliance** → Security for AWS, Azure, GCP  
+🔹 **DevSecOps & Automation** → Secure CI/CD pipelines, Security-as-Code, Terraform  
+🔹 **Threat Intelligence & OSINT** → Threat analysis, proactive defense, and automated response  
+🔹 **Incident Response & SIEM** → Monitoring, attack mitigation, and incident handling  
+🔹 **Container & Kubernetes Security** → Protecting workloads and microservices  
 
 ---
 
-## Updates
+## **🚀 Ongoing Projects**  
 
-Stay tuned for my latest updates:
+### **🔹 Cloud Security**  
+✅ **[Cloud Security Monitoring](#)** – SIEM for real-time threat detection and response in AWS  
+✅ **[Zero Trust Security](#)** – Implementing Zero Trust in cloud infrastructure  
+✅ **[Multi-Cloud Security Posture Management](#)** – Hardening and compliance across multiple clouds  
+✅ **[Cloud API Security](#)** – Protecting APIs from attacks and data breaches  
+✅ **[Cloud Storage Security](#)** – Encryption, access control, and data monitoring  
+✅ **[Cloud Network Security](#)** – Firewalls, VPC segmentation, and DDoS protection  
 
-- [Recent Update/Article](URL)
-- [Recent Update/Article](URL)
+### **🔹 DevSecOps & Automation**  
+✅ **[Secure CI/CD Pipelines](#)** – Automated pipelines with integrated security  
+✅ **[Security Automation with Terraform & Ansible](#)** – Compliance and remediation automation  
+✅ **[Infrastructure as Code Security](#)** – Secure implementation of IaC  
+✅ **[Container & Kubernetes Security](#)** – Protecting distributed workloads  
+
+### **🔹 Incident Response & Threat Intelligence**  
+✅ **[SIEM Implementation](#)** – Log analysis and real-time incident response  
+✅ **[Threat Intelligence Automation](#)** – Integrating threat feeds and automating response  
+✅ **[Ransomware Defense](#)** – Strategies for mitigation and recovery  
+✅ **[Honeypot Deployment](#)** – Simulating attacks and capturing real threats  
 
 ---
 
-## GitHub Stats
+## **🎯 Action Plan & Roadmap**  
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME)](https://github.com/YOUR_USERNAME)
+My learning path is structured into **200 study sections**, covering everything from fundamentals to advanced cloud security.  
+
+🔹 **Phase 1:** Cloud Security & Fundamentals (Sections 1-50)  
+🔹 **Phase 2:** Practical Security & DevSecOps (Sections 51-100)  
+🔹 **Phase 3:** Advanced Projects & Certifications (Sections 101-150)  
+🔹 **Phase 4:** Portfolio & Applications for International Opportunities (Sections 151-200)  
 
 ---
 
-## Connect With Me
+## **📂 Repository Structure**  
 
-- [LinkedIn](https://www.linkedin.com/in/luis-eduardo-leon/)
+📁 **/docs** → Study notes and roadmap documentation  
+📁 **/projects** → Hands-on implementations and security projects  
+📁 **/scripts** → Security automation with Python, Bash, and PowerShell  
+📁 **/certifications** → Study materials for security certifications  
+📁 **/research** → Security analysis and research  
+
+---
+
+## **📢 Follow My Journey**  
+
+🔗 **LinkedIn:** [Your Profile](https://www.linkedin.com/in/luis-eduardo-leon/)  
+🐙 **GitHub:** [This Repository](https://github.com/eduleon1985)  
+✍ **Blog:** [Technical Articles & Case Studies](#)  
+
+---
+
+## **💡 Final Thoughts**  
+
+This repository is **the core of my Cloud Security and DevSecOps journey**. 
+Every project and study documented here reflects my commitment to cybersecurity and professional growth.  
+
+🚀 **Stay consistent, trust the process, and success will follow!**  
+
+---
